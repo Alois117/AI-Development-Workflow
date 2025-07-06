@@ -52,7 +52,7 @@ The aim is to build and evaluate an AI system based on structured medical data, 
 - **Figure 2:** Data Pipeline Flowchart  
 - **Figure 3:** Model Lifecycle & Drift Monitoring
 
-All diagrams are located in the `/diagrams` folder and included in the PDF report.
+All diagrams are included in the PDF report.
 
 ---
 
@@ -66,7 +66,7 @@ All diagrams are located in the `/diagrams` folder and included in the PDF repor
 
 ## 📄 Report Submission
 
-The full written assignment is in the `Report.pdf` file and includes:
+The full written assignment is in the `Week5.pdf` file and includes:
 
 - All 4 required parts
 - Diagrams and reflections
